@@ -1,0 +1,32 @@
+.calc{
+    width: 300px;
+    height: 550px;
+    background:rgb(0, 0, 0);
+    margin-left: 500px;
+    margin-top: 20px;
+    box-shadow:  0 0 1em inset rgb(43, 39, 39);
+    border-radius: 20px;
+
+}
+
+#screen{
+    width: 85%;
+    margin-left: 19px;
+    height: 70px;
+    margin-top: 21px;
+    pointer-events: none;
+}
+
+
+.btn{
+    width: 50px;
+    height: 35px;
+    margin-left: 18px;
+    margin-top: 50px;
+    
+    border-radius: 50%;
+    background-color:rgb(253, 162, 6) ;
+    color: white;
+    font-size: large;
+
+}
